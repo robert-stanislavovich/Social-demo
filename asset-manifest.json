@@ -1,25 +1,38 @@
 {
   "files": {
-    "main.css": "/Social-demo/static/css/main.d5be675d.chunk.css",
-    "main.js": "/Social-demo/static/js/main.109632ec.chunk.js",
-    "main.js.map": "/Social-demo/static/js/main.109632ec.chunk.js.map",
+    "main.css": "/Social-demo/static/css/main.f1900490.chunk.css",
+    "main.js": "/Social-demo/static/js/main.571f6c58.chunk.js",
+    "main.js.map": "/Social-demo/static/js/main.571f6c58.chunk.js.map",
     "runtime-main.js": "/Social-demo/static/js/runtime-main.0611f848.js",
     "runtime-main.js.map": "/Social-demo/static/js/runtime-main.0611f848.js.map",
-    "static/js/2.3f08754a.chunk.js": "/Social-demo/static/js/2.3f08754a.chunk.js",
-    "static/js/2.3f08754a.chunk.js.map": "/Social-demo/static/js/2.3f08754a.chunk.js.map",
+    "static/js/2.eff3ba4f.chunk.js": "/Social-demo/static/js/2.eff3ba4f.chunk.js",
+    "static/js/2.eff3ba4f.chunk.js.map": "/Social-demo/static/js/2.eff3ba4f.chunk.js.map",
     "index.html": "/Social-demo/index.html",
-    "static/css/main.d5be675d.chunk.css.map": "/Social-demo/static/css/main.d5be675d.chunk.css.map",
-    "static/js/2.3f08754a.chunk.js.LICENSE.txt": "/Social-demo/static/js/2.3f08754a.chunk.js.LICENSE.txt",
+    "static/css/main.f1900490.chunk.css.map": "/Social-demo/static/css/main.f1900490.chunk.css.map",
+    "static/js/2.eff3ba4f.chunk.js.LICENSE.txt": "/Social-demo/static/js/2.eff3ba4f.chunk.js.LICENSE.txt",
     "static/media/Curve-Loading.44e7ba31.gif": "/Social-demo/static/media/Curve-Loading.44e7ba31.gif",
+    "static/media/bacon.2eaee3b8.jpg": "/Social-demo/static/media/bacon.2eaee3b8.jpg",
+    "static/media/cheese.149a75bd.jpg": "/Social-demo/static/media/cheese.149a75bd.jpg",
+    "static/media/ham.4291b6ed.jpg": "/Social-demo/static/media/ham.4291b6ed.jpg",
     "static/media/iconfinder_simpline_27_2305630.2081434b.png": "/Social-demo/static/media/iconfinder_simpline_27_2305630.2081434b.png",
+    "static/media/luk.21c509d3.jpg": "/Social-demo/static/media/luk.21c509d3.jpg",
+    "static/media/mushroom.9039edf6.jpg": "/Social-demo/static/media/mushroom.9039edf6.jpg",
+    "static/media/olive.d433f164.jpg": "/Social-demo/static/media/olive.d433f164.jpg",
+    "static/media/peper.f86ddbc0.jpg": "/Social-demo/static/media/peper.f86ddbc0.jpg",
+    "static/media/pizza-1.21b556d7.png": "/Social-demo/static/media/pizza-1.21b556d7.png",
+    "static/media/pizza-2.b33209a9.png": "/Social-demo/static/media/pizza-2.b33209a9.png",
+    "static/media/pizza-3.72a60992.png": "/Social-demo/static/media/pizza-3.72a60992.png",
+    "static/media/pizza.4ed144a8.png": "/Social-demo/static/media/pizza.4ed144a8.png",
     "static/media/redkrest.6abcf506.png": "/Social-demo/static/media/redkrest.6abcf506.png",
     "static/media/social-venture-network-logo.0d5f9422.png": "/Social-demo/static/media/social-venture-network-logo.0d5f9422.png",
+    "static/media/sous.e9020170.jpg": "/Social-demo/static/media/sous.e9020170.jpg",
+    "static/media/tomato.c145c840.jpg": "/Social-demo/static/media/tomato.c145c840.jpg",
     "static/media/userlogo.e5117e8e.jpg": "/Social-demo/static/media/userlogo.e5117e8e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0611f848.js",
-    "static/js/2.3f08754a.chunk.js",
-    "static/css/main.d5be675d.chunk.css",
-    "static/js/main.109632ec.chunk.js"
+    "static/js/2.eff3ba4f.chunk.js",
+    "static/css/main.f1900490.chunk.css",
+    "static/js/main.571f6c58.chunk.js"
   ]
 }
