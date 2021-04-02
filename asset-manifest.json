@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Social-demo/static/css/main.9a681d48.chunk.css",
+    "main.css": "/Social-demo/static/css/main.ec39273d.chunk.css",
     "main.js": "/Social-demo/static/js/main.2e543420.chunk.js",
     "main.js.map": "/Social-demo/static/js/main.2e543420.chunk.js.map",
     "runtime-main.js": "/Social-demo/static/js/runtime-main.0611f848.js",
@@ -8,7 +8,7 @@
     "static/js/2.9ac13f2f.chunk.js": "/Social-demo/static/js/2.9ac13f2f.chunk.js",
     "static/js/2.9ac13f2f.chunk.js.map": "/Social-demo/static/js/2.9ac13f2f.chunk.js.map",
     "index.html": "/Social-demo/index.html",
-    "static/css/main.9a681d48.chunk.css.map": "/Social-demo/static/css/main.9a681d48.chunk.css.map",
+    "static/css/main.ec39273d.chunk.css.map": "/Social-demo/static/css/main.ec39273d.chunk.css.map",
     "static/js/2.9ac13f2f.chunk.js.LICENSE.txt": "/Social-demo/static/js/2.9ac13f2f.chunk.js.LICENSE.txt",
     "static/media/2342.dd7762d8.jpg": "/Social-demo/static/media/2342.dd7762d8.jpg",
     "static/media/Curve-Loading.44e7ba31.gif": "/Social-demo/static/media/Curve-Loading.44e7ba31.gif",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.0611f848.js",
     "static/js/2.9ac13f2f.chunk.js",
-    "static/css/main.9a681d48.chunk.css",
+    "static/css/main.ec39273d.chunk.css",
     "static/js/main.2e543420.chunk.js"
   ]
 }
